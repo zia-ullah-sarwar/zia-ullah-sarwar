@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ziaullahsarwar.com](ziaullahsarwar.com)
 
-- 💬 Ask me about **React js, Node js , Express js, Mongo DB,**
+- 💬 Ask me about **React js, Next js, Node js , Express js, Mongo DB,**
 
 - 📫 How to reach me **ziasarwar20297@gmail.com**
   
